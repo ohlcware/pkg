@@ -11,9 +11,8 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20220830015526-01a3c37d6f50
 	github.com/hashicorp/vault/api v1.7.2
 	github.com/iancoleman/strcase v0.2.0
-	github.com/ohlcware/pkg/ika v0.1.1
-	github.com/ohlcware/pkg/mngapi v0.1.1
 	github.com/stretchr/testify v1.8.0
+	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.3.6
 	gorm.io/driver/postgres v1.3.9
 	gorm.io/driver/sqlite v1.3.6
@@ -98,5 +97,4 @@ require (
 	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )

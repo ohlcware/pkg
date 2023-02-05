@@ -312,10 +312,6 @@ github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7J
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/onsi/gomega v1.19.0 h1:4ieX6qQjPP/BfC3mpsAtIGGlxTWPeA3Inl/7DtXw1tw=
 github.com/onsi/gomega v1.19.0/go.mod h1:LY+I3pBVzYsTBU1AnDwOSxaYi9WoWiqgwooUqq9yPro=
-github.com/ohlcware/pkg/ika v0.1.1 h1:Ka6Aue/vwLywpuMWzVhn7GJikuSmz7l/QTR5pRhouRE=
-github.com/ohlcware/pkg/ika v0.1.1/go.mod h1:jm8WfSZMNeuv49YVkeY/cgWO5K2pvyeAHb3AFJmpHew=
-github.com/ohlcware/pkg/mngapi v0.1.1 h1:vhUrdhkK7pgwDmqIZemh3FSUwKtAPd6sC/yaF+d28mI=
-github.com/ohlcware/pkg/mngapi v0.1.1/go.mod h1:vP4cwz98EAwWzJaHzs6utByIs9HaKJezA89V/Iggl6M=
 github.com/pascaldekloe/goe v0.1.0 h1:cBOtyMzM9HTpWjXfbbunk26uA6nG3a8n06Wieeh0MwY=
 github.com/pascaldekloe/goe v0.1.0/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
 github.com/pelletier/go-toml/v2 v2.0.1 h1:8e3L2cCQzLFi2CR4g7vGFuFxX7Jl1kKX8gW+iV0GUKU=
