@@ -9,7 +9,7 @@ import (
 	"github.com/hashicorp/vault/api"
 	"github.com/iancoleman/strcase"
 
-	"github.com/openware/pkg/encryptor/types"
+	"github.com/ohlcware/pkg/encryptor/types"
 )
 
 // Service contains scoped secret data, Vault client and configuration

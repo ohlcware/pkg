@@ -54,7 +54,7 @@ steps:
       - apt-get install -y p7zip-full
       - |
         curl -s -L "https://github.com/boumenot/gocover-cobertura/releases/download/v1.1.0/gocover-cobertura.linux.x64.7z" -o ./gocover-cobertura.7z
-        curl -s -L https://github.com/openware/go-coverage/releases/download/v1.0.0-alpha/go-coverage -o ./go-coverage
+        curl -s -L https://github.com/ohlcware/go-coverage/releases/download/v1.0.0-alpha/go-coverage -o ./go-coverage
         7z x ./gocover-cobertura.7z
         chmod +x ./gocover-cobertura
         chmod +x ./go-coverage

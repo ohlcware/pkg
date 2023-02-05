@@ -1,4 +1,4 @@
-module github.com/openware/pkg/signer
+module github.com/ohlcware/pkg/signer
 
 go 1.18
 

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/openware/pkg/mngapi"
+	"github.com/ohlcware/pkg/mngapi"
 	"github.com/stretchr/testify/assert"
 )
 

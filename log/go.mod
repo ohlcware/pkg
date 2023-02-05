@@ -1,4 +1,4 @@
-module github.com/openware/pkg/log
+module github.com/ohlcware/pkg/log
 
 go 1.18
 

@@ -20,7 +20,7 @@ import (
    "fmt"
    "log"
 
-	"github.com/openware/pkg/kli"
+	"github.com/ohlcware/pkg/kli"
 )
 
 func main() {

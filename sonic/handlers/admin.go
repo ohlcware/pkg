@@ -11,12 +11,12 @@ import (
 	"path"
 	"time"
 
-	sonic "github.com/openware/pkg/sonic/config"
-	"github.com/openware/pkg/vault"
+	sonic "github.com/ohlcware/pkg/sonic/config"
+	"github.com/ohlcware/pkg/vault"
 
 	"github.com/gin-gonic/gin"
-	"github.com/openware/pkg/jwt"
-	"github.com/openware/pkg/mngapi/peatio"
+	"github.com/ohlcware/pkg/jwt"
+	"github.com/ohlcware/pkg/mngapi/peatio"
 )
 
 const (

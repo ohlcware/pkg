@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/openware/pkg/encryptor/transit"
+	"github.com/ohlcware/pkg/encryptor/transit"
 	"github.com/stretchr/testify/assert"
 )
 

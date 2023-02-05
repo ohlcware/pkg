@@ -6,9 +6,9 @@ import (
 	"sync"
 
 	"github.com/gin-gonic/gin"
-	"github.com/openware/pkg/jwt"
-	"github.com/openware/pkg/sonic/config"
-	"github.com/openware/pkg/vault"
+	"github.com/ohlcware/pkg/jwt"
+	"github.com/ohlcware/pkg/sonic/config"
+	"github.com/ohlcware/pkg/vault"
 )
 
 type cache struct {

@@ -1,4 +1,4 @@
-module github.com/openware/pkg/mngapi
+module github.com/ohlcware/pkg/mngapi
 
 go 1.18
 

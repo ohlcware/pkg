@@ -1,4 +1,4 @@
-module github.com/openware/pkg
+module github.com/ohlcware/pkg
 
 go 1.18
 
@@ -11,8 +11,8 @@ require (
 	github.com/gomarkdown/markdown v0.0.0-20220830015526-01a3c37d6f50
 	github.com/hashicorp/vault/api v1.7.2
 	github.com/iancoleman/strcase v0.2.0
-	github.com/openware/pkg/ika v0.1.1
-	github.com/openware/pkg/mngapi v0.1.1
+	github.com/ohlcware/pkg/ika v0.1.1
+	github.com/ohlcware/pkg/mngapi v0.1.1
 	github.com/stretchr/testify v1.8.0
 	gorm.io/driver/mysql v1.3.6
 	gorm.io/driver/postgres v1.3.9

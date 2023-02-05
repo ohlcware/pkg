@@ -1,4 +1,4 @@
-module github.com/openware/pkg/fujin
+module github.com/ohlcware/pkg/fujin
 
 go 1.18
 

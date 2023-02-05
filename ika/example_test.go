@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	cnfenv "github.com/openware/pkg/ika"
+	cnfenv "github.com/ohlcware/pkg/ika"
 )
 
 // ExampleGetDescription builds a description text from structure tags

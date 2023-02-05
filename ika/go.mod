@@ -1,4 +1,4 @@
-module github.com/openware/pkg/ika
+module github.com/ohlcware/pkg/ika
 
 go 1.18
 

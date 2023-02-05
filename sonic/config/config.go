@@ -1,8 +1,8 @@
 package config
 
 import (
-	"github.com/openware/pkg/mngapi"
-	"github.com/openware/pkg/sonic/database"
+	"github.com/ohlcware/pkg/mngapi"
+	"github.com/ohlcware/pkg/sonic/database"
 )
 
 // Config is the application configuration structure

@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"github.com/openware/pkg/vault"
-	"github.com/openware/pkg/mngapi/peatio"
+	"github.com/ohlcware/pkg/vault"
+	"github.com/ohlcware/pkg/mngapi/peatio"
 	"sync"
 	"time"
 )

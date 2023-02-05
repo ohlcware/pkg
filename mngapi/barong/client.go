@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/openware/pkg/mngapi"
+	"github.com/ohlcware/pkg/mngapi"
 )
 
 // Client is barong management api client instance

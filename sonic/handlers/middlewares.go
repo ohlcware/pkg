@@ -5,9 +5,9 @@ import (
 	"strings"
 
 	"github.com/gin-gonic/gin"
-	"github.com/openware/pkg/vault"
-	"github.com/openware/pkg/jwt"
-	sonic "github.com/openware/pkg/sonic/config"
+	"github.com/ohlcware/pkg/vault"
+	"github.com/ohlcware/pkg/jwt"
+	sonic "github.com/ohlcware/pkg/sonic/config"
 )
 
 // SonicContextMiddleware middleware to set sonic config to gin context
